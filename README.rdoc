@@ -1,2 +1,4 @@
-= Oficina de Ruby on Rails 
-== FATEC Sorocaba (04/06/2011)
+= Oficina de Ruby on Rails - FATEC Sorocaba (04/06/2011)
+
+== Vejam os commits para ver as alterações realizadas por mim.
+
