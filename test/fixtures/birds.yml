@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  birthdate: 2011-06-04
+  size: 1
+  kind: MyString
+
+two:
+  name: MyString
+  birthdate: 2011-06-04
+  size: 1
+  kind: MyString

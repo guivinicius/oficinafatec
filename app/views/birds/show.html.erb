@@ -1,0 +1,25 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Name:</b>
+  <%= @bird.name %>
+</p>
+
+<p>
+  <b>Birthdate:</b>
+  <%= @bird.birthdate %>
+</p>
+
+<p>
+  <b>Size:</b>
+  <%= @bird.size %>
+</p>
+
+<p>
+  <b>Kind:</b>
+  <%= @bird.kind %>
+</p>
+
+
+<%= link_to 'Edit', edit_bird_path(@bird) %> |
+<%= link_to 'Back', birds_path %>
