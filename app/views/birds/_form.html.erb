@@ -17,7 +17,7 @@
   </div>
   <div class="field">
     <%= f.label :birthdate %><br />
-    <%= f.date_select :birthdate %>
+    <%= f.date_select :birthdate, :start_year => Time.now.year - 20, :include_blank => true %>
   </div>
   <div class="field">
     <%= f.label :size %><br />
